@@ -1,0 +1,20 @@
+.basic {
+    background-color: rgb(248, 165, 165);
+    color: rgb(0, 0, 0);
+    font-family: 'Verdana', 'DejaVu Sans','sans-serif';
+}
+
+#blue {
+    color: rgb(22, 22, 235);
+    font-size: 36px;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#green {
+    background-color: rgb(69, 252, 69);
+    font-size: 24px;
+    font-style: bold;
+}
